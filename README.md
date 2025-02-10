@@ -12,18 +12,18 @@ git clone https://github.com/GokceKo/DCM-PEB-Dyslexia.git
 
 Software Requirements:
 
-MATLAB (R2021a or later)
+MATLAB (R2023a or later)
 
 SPM12 toolbox
 
 Dependencies:
-Ensure that SPM12 and BrainNet Viewer are added to your MATLAB path.
+Ensure that SPM12 is added to your MATLAB path.
 
 Usage Instructions
 
-Preprocessing and GLM Specification:
+GLM Specification:
 
-Run the script XXXXXXX.m to specify and estimate first-level and group-level general linear models.
+Specify and estimate first-level and group-level general linear models using spm batch.
 
 VOI Extraction:
 
